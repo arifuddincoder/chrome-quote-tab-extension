@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Focus Tab by Arif",
+	"version": "1.0",
+	"description": "A clean new tab with time and a motivational focus quote.",
+	"author": "Md Arif Uddin <arif.uddin.dev@gmail.com>",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"action": {
+		"default_title": "Focus Tab"
+	}
+}
