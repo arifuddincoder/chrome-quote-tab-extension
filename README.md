@@ -7,6 +7,9 @@
 > _"Taking no action invites depression to stay."_  
 > — Arif
 
+
+![Extension Preview](extension-preview.png)
+
 ---
 
 ## ✨ Features
