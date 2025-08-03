@@ -4,7 +4,7 @@
 
 **A simple, clean new tab experience** that displays the current time along with a motivational quote to help you stay inspired.
 
-> _"Depression arises when we fail to take action."_  
+> _"Taking no action invites depression to stay."_  
 > — Arif
 
 ---
